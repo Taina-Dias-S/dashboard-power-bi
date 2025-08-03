@@ -19,4 +19,4 @@ Aprendizados:
 - Como identificar e corrigir erros ou inconsistências em uma base de dados.
 - Como construir um dashboard visualmente organizado, com filtros interativos e gráficos.
 - A prática de comunicar insights de forma clara através de relatórios simples.
--Maior familiaridade com a interface do Power BI e suas funcionalidades.
+- Maior familiaridade com a interface do Power BI e suas funcionalidades.
